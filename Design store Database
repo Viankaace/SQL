@@ -1,0 +1,11 @@
+Create table cases(id INTEGER PRIMARY KEY, color Text, Price INTEGER, AISLE INTEGER, BRAND INTEGER);
+INSERT INTO cases VALUES (1,"purple", 7,12,"casefy");
+INSERT INTO cases VALUES (2,"pink", 8,2,"vinkwink");
+INSERT INTO cases VALUES (3,"orange", 6, 10, "bling");
+INSERT INTO cases VALUES (4,"black", 7,12,"shadow");
+INSERT INTO cases VALUES (5,"blue", 3,14,"murp");
+
+--First, I created a cases store database with 5 columns 
+--Then displayed the database ordered by text, price, aisle, and brand.
+
+
